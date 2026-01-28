@@ -1,0 +1,12 @@
+[submodule "streamline_backend"]
+	path = streamline_backend
+	url = https://github.com/vihirthan4444/streamline_backend.git
+[submodule "streamline_app"]
+	path = streamline_app
+	url = https://github.com/vihirthan4444/streamline_app.git
+[submodule "streamline_themes"]
+	path = streamline_themes
+	url = https://github.com/vihirthan4444/streamline_themes.git
+[submodule "streamline_docs"]
+	path = streamline_docs
+	url = https://github.com/vihirthan4444/streamline_docs.git
